@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NewApp</string>
+    <string name="username">Username</string>
+    <string name="Password">Password</string>
+    <string name="Username">User</string>
+    <string name="user">Username</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="blog_app">Blog App</string>
+</resources>
